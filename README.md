@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/K6vfR0tWnlwAAAAd/goku-ultra-instinct.gif)
+[![MasterHead](https://media.tenor.com/khwqWo5ouEAAAAAC/goku-ultra-instinct.gif)
 <h1 align="center">Hi 👋, I'm moghal hussain</h1>
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
